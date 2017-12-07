@@ -31,4 +31,4 @@ Quick access to some good resources.
 
 ## Contribute
 
-Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md)
+Contributions are welcome! See the [contribution guidelines](https://github.com/jatin69/Resource-guide/blob/master/CONTRIBUTING.md)
