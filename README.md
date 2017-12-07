@@ -10,6 +10,7 @@ Quick access to some good resources.
 ## Python
 
 - [Python best practices guidebook, written for Humans.](http://docs.python-guide.org)
+- [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## JS
 
@@ -20,14 +21,13 @@ Quick access to some good resources.
 
 - [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
 
-
 ## Operation Systems
 
 - [Step by Step OS development](https://github.com/jatin69/os-tutorial)
 - [Atom OS](https://github.com/amaneureka/AtomOS)
 
 ## Project Ideas
-- [Mega Project List](https://github.com/karan/Projects)
+- [Mega Project List](https://github.com/karan/Projects) 
 
 ## Contribute
 
