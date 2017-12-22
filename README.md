@@ -2,10 +2,18 @@
 
 Quick access to some good resources.
 
+
+## websites
+- [Learn Anything](https://learn-anything.xyz)
+- [Dev hints - Cheat sheets](https://devhints.io/)
+
 ## Github repos
 
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - A link to many many wonderful resources.
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) -  [pdf version](https://github.com/lnishan/awesome-competitive-programming/blob/204b89b2019111a6d8e79c57abd6dca1a6e75692/README.pdf)
+
+## Android A-Z
+- [Extensive Open-Source Guides for Android Developers ](https://github.com/codepath/android_guides)
 
 ## Python
 
@@ -27,7 +35,7 @@ Quick access to some good resources.
 - [Atom OS](https://github.com/amaneureka/AtomOS)
 
 ## Project Ideas
-- [Mega Project List](https://github.com/karan/Projects) 
+- [Mega Project List](https://github.com/karan/Projects)
 
 ## Contribute
 
