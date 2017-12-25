@@ -1,7 +1,12 @@
 # React.js
 
+## Nice watches
+- [Flux workflow talk ](https://www.youtube.com/watch?v=xsSnOQynTHs)
+- [Declarative Programming](https://youtu.be/yGh0bjzj4IQ)
+
 # Resources
 - [Awesome React guide github](https://github.com/enaqx/awesome-react#react-and-socketio)
+- [Online editor](https://codesandbox.io/)
 
 
 ## Why is it called scalable ?
@@ -59,3 +64,14 @@ will have to pass on onClick functionality to individual button.
 
 - we always say that a component should manage the state by itself. But, when two components are in sync,
 we find a common parent, or create one if it doesn't exist, and follow the above approach.
+
+- **State Lifting** 
+	- When you want to aggregate data from multiple children or to have two child components communicate with each other, move the state upwards so that it lives in the parent component. 
+	- The parent can then pass the state back down to the children via props, so that the child components are always in sync with each other and with the parent.
+
+- **Declarative**, **Idempotent Actions** and **Uni Direction Data flow**
+Because buttons only call handlers and do not directly change anything,
+the actions are idempotent. It will not matter if i pressed the button multiple times, because what will happen due to that click is idempotent. So assuming, i click the PAYMENT button, handler is still processing my transaction,
+then if i further press the button 2 times, it will not cause the repetition of payment. 
+WHY ? Because that very specific click handler knows that a current transaction is in process, thus it will not act
+any further on that request.

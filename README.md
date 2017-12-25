@@ -6,6 +6,7 @@ Quick access to some good resources.
 ## websites
 - [Learn Anything](https://learn-anything.xyz)
 - [Dev hints - Cheat sheets](https://devhints.io/)
+- [web development with analogies](https://www.codeanalogies.com/)
 
 ## Github repos
 
