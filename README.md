@@ -12,6 +12,7 @@ Quick access to some good resources.
 
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - A link to many many wonderful resources.
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) -  [pdf version](https://github.com/lnishan/awesome-competitive-programming/blob/204b89b2019111a6d8e79c57abd6dca1a6e75692/README.pdf)
+- [Simplified and community-driven man pages ](https://github.com/tldr-pages/tldr)
 
 ## Android A-Z
 - [Extensive Open-Source Guides for Android Developers ](https://github.com/codepath/android_guides)
@@ -21,14 +22,10 @@ Quick access to some good resources.
 - [Python best practices guidebook, written for Humans.](http://docs.python-guide.org)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 
-## JS
-
-- [JS for cats](http://jsforcats.com/)
-- [An introduction to Node.js](https://github.com/maxogden/art-of-node)
-
 ## Machine Learning
 
 - [tensorflow-mnist-tutorial](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
+- [A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.](https://github.com/ageron/handson-ml)
 
 ## Operation Systems
 
