@@ -3,7 +3,7 @@
 Quick access to some good resources.
 
 
-## [Some Good Articles](/articles)
+## [Some Good Articles](/Resource-guide/articles)
 
 ## websites
 - [Learn Anything](https://learn-anything.xyz)
