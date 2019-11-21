@@ -14,8 +14,6 @@ Once we get familiar with react life cycle, we can clearly observe that,
 each component is an independent entity encapsulated in higher entities.
 It has all its classes as well as behaviour.
 
-# Thinking Different
-
 ### Classic approach
 - generate html on server side, send to browser.
 - **The content comes from source A, then combined with a template residing in source B,
