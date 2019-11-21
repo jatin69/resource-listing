@@ -1,20 +1,23 @@
 # React.js
 
 ## Nice watches
+
 - [Flux workflow talk ](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [Declarative Programming](https://youtu.be/yGh0bjzj4IQ)
 
 # Resources
+
 - [Awesome React guide github](https://github.com/enaqx/awesome-react#react-and-socketio)
 - [Online editor](https://codesandbox.io/)
 
-
 ## Why is it called scalable ?
+
 Once we get familiar with react life cycle, we can clearly observe that,
 each component is an independent entity encapsulated in higher entities.
 It has all its classes as well as behaviour.
 
 ### Classic approach
+
 - generate html on server side, send to browser.
 - **The content comes from source A, then combined with a template residing in source B,
 html generated and then sent to browser.**
@@ -25,6 +28,7 @@ if explicitly maintained increase page size that needs to be sent from server.
 The foundation isn't built to scale.
 
 ### React approach
+
 - each component is complete as a whole.
 - Initially a few feeds are sent to browser as html.
 - Now if i need more events, new posts are fetched from the api,
@@ -75,3 +79,8 @@ the actions are idempotent. It will not matter if i pressed the button multiple 
 then if i further press the button 2 times, it will not cause the repetition of payment. 
 WHY ? Because that very specific click handler knows that a current transaction is in process, thus it will not act
 any further on that request.
+
+## More
+
+- [Intro React](https://dev.to/aurelkurtula/introduction-to-react-532)
+- [React + firebase](https://dev.to/aurelkurtula/creating-an-app-with-react-and-firebase---part-one-814)

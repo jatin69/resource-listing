@@ -1,6 +1,5 @@
 # Javascript
 
-
 ## Getting started
 
 - [JS for cats](http://jsforcats.com/)
@@ -15,4 +14,5 @@
 
 
 ## Node JS
+
 - [An introduction to Node.js](https://github.com/maxogden/art-of-node)

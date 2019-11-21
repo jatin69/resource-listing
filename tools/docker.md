@@ -1,10 +1,14 @@
-# Docker I - The era of containerized applications 
+# Docker
 
-## Virtualization
+## Docker - The era of containerized applications 
+
+### Virtualization
+
 - Virtual Machines
 - VM ware | Virtual Box | Hyper Visior
 
-## Vagrant 
+### Vagrant 
+
 - A Virtual Machine manager
 - One VM per projects approach
 - headless VMs | faster than normal | built on top of VirtualBox
@@ -12,14 +16,16 @@
 - vagrant up - is all i need to get a project up and running.
 - works on the idea of base box | then build on top of it.
 
-## Containerization
+### Containerization
+
 - Containers
 - one process per container approach
 - Docker 
 - difference between Virtual Machine and docker
 - use case for docker - experiment, development, production, testing, maintainance
 
-## Docker 
+### Docker 
+
 - [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 - Installation
 - `docker images`
@@ -31,7 +37,8 @@
 - docker commit - saving container state as a image
 - binding volumes with container - to reflect changes instantly
 
-## Docker Composer 
+### Docker Composer 
+
 - [Learn docker-composer in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)
 - containers linking 
 	- `--link` => depreciated
@@ -46,13 +53,17 @@
 - YML file => specifying services for each container, their exposed ports
 - docker-composer up => single command application up and down for multi container applications
 
-# Conclusion
+## Conclusion
 
-## Single container based application
+### Single container based application
 - make a directory that holds your source code
 - make a Dockerfile in it, build a docker image
 - spin up a container with -p for correct port forward and -v for shared directory mount
 
-## Multi container application
+### Multi container application
 - docker-composer to manage all containers
 - write YML carefully and you are good to go.
+
+## More - What is a Container Orchestrator
+
+If one container crash, there is no automatic restart. If one container restart you have to restart all container to resync link (other container keep the old ip). you have to use only one host, scale is hard, 

@@ -1,12 +1,13 @@
 # Interview Preparation
 
+## Articles
+
 - [Guide to Technical Interviews](https://github.com/Developer-Y/technical-interviews)
 - [Software Engineering Interview Preparation](https://orrsella.gitbooks.io/soft-eng-interview-prep/)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#c)
 - [Technical Interview Cheat Sheet](https://github.com/harrisonlingren/tech-interview-cheat-sheet)
 
-
-## Status of websites
+## Status of websites/books
 
 ### Karumanchi
 
@@ -54,4 +55,12 @@
 - dev friendly. 2/5
 - test cases 3/5
 
-### Hackerrank / hackerearth
+### Hackerrank 
+
+- good for language 4/5
+- decent section for interview prep. not exhausative by any means 2/5
+
+## More
+
+- [Leetcode solutions](https://github.com/Blankj/awesome-java-leetcode)
+- [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)

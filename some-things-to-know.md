@@ -8,3 +8,7 @@
 
 - [Ulam Spiral of Primes](https://www.alpertron.com.ar/EULAM.HTM) \
   [Large Integer Factorization](https://www.alpertron.com.ar/ECM.HTM)
+
+- [Cosmos - Every Algorithm Ever](https://github.com/OpenGenus/cosmos)
+- [Web Interface for cosmos](https://cosmos-web.surge.sh)
+- firacode font
